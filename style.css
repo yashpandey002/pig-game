@@ -218,6 +218,17 @@ main {
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
 }
 
+footer {
+    position: absolute;
+    font-size: 1.6rem;
+    color: #ffffff70;
+    bottom: 0;
+}
+
+footer a {
+    color: #006d2a;
+}
+
 .desktop-use-only {
     height: 100vh;
     width: 100vw;
